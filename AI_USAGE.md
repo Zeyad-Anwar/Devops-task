@@ -1,12 +1,5 @@
-# AI usage disclosure
+# AI usage
 
-Write None if no AI was used. Otherwise record each use:
-
-- Tool/model:
-- Purpose:
-- Files or decisions affected:
-- What you changed or rejected:
-- How you independently verified it:
-- Related commit:
-
-You may use AI and external resources. You must understand and demonstrate the work.
+- Helped in understanding NGINX as it's the first time using it
+- Helped in creating testing scripts(failure_test.py, validate.py, backup.sh, restore.sh)
+- Used for documentations
